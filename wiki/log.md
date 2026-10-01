@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-10-01] ingest | 正念的奇迹 读书笔记
+- Added: 正念的奇迹/读书笔记.md
+- Added: 正念的奇迹/读书笔记-无格式版.txt
+- Added: 正念的奇迹/读书笔记-摘抄原文.md
+- Added: 正念的奇迹/笔记原文.txt
+
 ## [2026-08-29] update | 以日为鉴 读书笔记
 - Merged 想补充的总体感受 into Overview; refreshed full note and 无格式版
 
